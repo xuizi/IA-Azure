@@ -12,3 +12,9 @@ Utilizado material do bootcamp DIO, o qual instruiu na criação da base de dado
 
 Arquivo gerado em .json também para visualização posterior
 
+# Vision Studio
+Verificação de capacidade de reconhecimento e descrição visual através de imagens por parte desta feature disponibilizada pela Azure.
+Para entendimento: Na pasta 'inputs', tem-se as imagens utilizadas, enquanto em 'outputs', às respectivas saídas.
+
+
+
