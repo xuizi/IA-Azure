@@ -1,0 +1,59 @@
+Saídas referentes às imagens presentes na pasta inputs (em ordem respectiva):
+
+1) JSON e descrição:
+
+A man holding a surfboard on a rock
+
+{
+  "apim-request-id": "1e948bf7-7135-457f-8e52-cfb1b5bdbda8",
+  "content-length": "162",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man holding a surfboard on a rock",
+    "confidence": 0.8574013710021973
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
+2) JSON e descrição:
+
+A statue of a woman holding a scale on top of a building
+
+
+{
+  "apim-request-id": "705e778f-e5f3-411a-b749-a2e5ba640743",
+  "content-length": "183",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a statue of a woman holding a scale on top of a building",
+    "confidence": 0.7008949518203735
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
+
+3) JSON e descrição:
+
+A man jumping on a skateboard
+
+
+{
+  "apim-request-id": "9b5cf9b9-39c7-4838-9c64-3d6b0961543e",
+  "content-length": "156",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man jumping on a skateboard",
+    "confidence": 0.8411462306976318
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
