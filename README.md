@@ -28,6 +28,7 @@ Recurso da Azure utilizado para transcrição de fala <> áudio, além de análi
 ![image](https://github.com/xuizi/IA-Azure/assets/126814093/03f31fa6-7372-484c-961e-1fedfb320da6)
 
 Análise pós leitura:
+
 ![image](https://github.com/xuizi/IA-Azure/assets/126814093/21bc1c72-92cf-45bf-ada2-cb9c5db219f8)
 
 
