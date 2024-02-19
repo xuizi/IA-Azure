@@ -22,5 +22,15 @@ Para entendimento: Na pasta 'inputs', tem-se as imagens utilizadas, enquanto em 
 
 ![image](https://portal.vision.cognitive.azure.com/dist/assets/ImageCaptioningSample2-72b3c1ca.png)
 
+# Language Studio
+Recurso da Azure utilizado para transcrição de fala <> áudio, além de análise de sentimento, recurso de grande importância para a questão de avaliações locais, conforme exemplo:
+
+![image](https://github.com/xuizi/IA-Azure/assets/126814093/03f31fa6-7372-484c-961e-1fedfb320da6)
+
+Análise pós leitura:
+![image](https://github.com/xuizi/IA-Azure/assets/126814093/21bc1c72-92cf-45bf-ada2-cb9c5db219f8)
+
+
+
 
 
