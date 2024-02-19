@@ -32,6 +32,8 @@ Análise pós leitura:
 ![image](https://github.com/xuizi/IA-Azure/assets/126814093/21bc1c72-92cf-45bf-ada2-cb9c5db219f8)
 
 
+# Arquivo JSON
 
+Em 'files', segue arquivo Feeling Analysis para verificação do código fonte da análise de sentimento por parte da AI
 
 
