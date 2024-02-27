@@ -45,9 +45,12 @@ Capacidade da IA em extrair informações de PDF's e outros documentos, visando 
 Ferramenta de IA generativa com funções envolvendo escrita, análise de sentimento e criação de imagens. Na pasta 'teste.copilots', está uma demonstração envolvendo entrada de imagens aleatórias e a resposta com o entedimento da IA acerca dela.
 
 Imagem 1:
+
 ![ovo](https://github.com/xuizi/IA-Azure/assets/126814093/051028ef-d008-44fb-aa03-e220a43420b7)
 
 
+
 Imagem 2:
+
 ![celta](https://github.com/xuizi/IA-Azure/assets/126814093/24f75383-a691-48d0-8e0a-b196b67ce223)
 
