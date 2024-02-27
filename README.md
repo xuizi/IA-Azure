@@ -36,4 +36,8 @@ Análise pós leitura:
 
 Em 'files', segue arquivo Feeling Analysis para verificação do código fonte da análise de sentimento por parte da AI
 
+# Azure Cognitive Source
+
+Capacidade da IA em extrair informações de PDF's e outros documentos, visando o seu entedimento integral, além de servir como forma de armazenamento privativo destas informações. Este portal soma habilidades de análise de sentimento, mineração de conhecimento e possibilidade de pesquisa de conteúdo através da indexação. Seguindo as etapas do mslearn-ai-fundamentals, é possível fazer a criação da base de dados (coffee-storage), e realizar pesquisas direta na base, envolvendo análise de sentimentos em avaliações, baseados na localidade do indivíduo, por exemplo. No arquivo disposto nesse repositório: 'coffee.json', segue modelo de busca e resultado obtido.
+
 
